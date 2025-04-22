@@ -17,5 +17,5 @@ Salah satu segmen dari "Kasak Kusuk" yang mimin membekas di ingatan dan dramatis
 kemudian berganti nama menjadi "Status Selebritis" pada sekitar tahun 2009, menyaingi Infotainment Hot Shot produksi Creative Indigo Prodution pemilik situs cumi-cumi(dot)com.
 <hr/>
 Ini ada cuplikan Kasak-kusuk SCTV Spesial Kebersamaan Pemeran Cinta Fitri saat Ramadhan, sinetron yang tayang dari 2 April 2007 setiap pukul 21.00 WIB, terbagi 7 musim dengan total 1.002 episode, produksi MD Entertainment, ada Dinda Kanya Dewi lhoo, lagi muda mudanya, si pemeran Miska brengsek penghancur Fitri sama si Farrel, anjirrr mimin ketauan suka sinet...awokawok..Maaf ya jika burik hasil record dari UHF Analog mungkin..
-<iframe src="https://cdn.videy.co/u56dt6DH1.mp4" width="680" height="480" allowfullscreen></iframe>
+<iframe src="https://cdn.videy.co/u56dt6DH1.mp4" width="200" height="200" allowfullscreen></iframe>
 
