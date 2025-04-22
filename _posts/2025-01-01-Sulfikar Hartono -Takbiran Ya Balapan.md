@@ -3,24 +3,19 @@ layout: post
 title: Sulfikar Hartono -Takbiran Ya Balapan
 date: 2025-01-01 00:00:00 +0800
 category: tutorial
-thumbnail: /style/image/thumbnail.png
+thumbnail: /style/image/kasak.png
 icon: book
 ---
 
-
+![Screenshot 2025-04-22 220416](https://github.com/user-attachments/assets/a53debd1-1659-490d-80e1-108840af027b)
 **Sulfikar Hartono “Takbiran Ya Balapan”**
 
-FYI - Hai guys, kalian tau gak ada cerita viral yang selalu muncul setiap malam Takbiran, baik Idul Fitri maupun Idul Adha? Ini soal kisah mendiang Sulfikar Hartono yang terkenal dengan "Takbiran Ya Balapan."
+HUNTING JADUL - Haii guys, kalian tau gak program Kasak -Kusuk, program gosip dari SCTV, pastilah tau bagi yang penonto setia SCTV dari dulu, apalagi fanbase nya Cinta Fitri...
+<hr/>
+Acara Kasak - Kusuk ini diproduksi oleh Shandika Widya Cinema (SWC), dan tayang di SCTV sekitar tahun 2005-2009-an kalau gaksalah, menyajikan berita dan informasi terkini seputar aktivitas serta perilaku selebriti Indonesia
+Salah satu segmen dari "Kasak Kusuk" yang mimin membekas di ingatan dan dramatis adalah "Kasak Kusuk Investigasi", yang mengangkat topik-topik mendalam mengenai kehidupan selebriti. waktu pada 28 April 2007, segmen ini membahas konflik rumah tangga antara Ahmad Dhani dan Maia Estianty
+kemudian berganti nama menjadi "Status Selebritis" pada sekitar tahun 2009, menyaingi Infotainment Hot Shot produksi Creative Indigo Prodution pemilik situs cumi-cumi(dot)com.
+<hr/>
+Ini ada cuplikan Kasak-kusuk SCTV Spesial Kebersamaan Pemeran Cinta Fitri saat Ramadhan, sinetron yang tayang dari 2 April 2007 setiap pukul 21.00 WIB, terbagi 7 musim dengan total 1.002 episode, produksi MD Entertainment, ada Dinda Kanya Dewi lhoo, lagi muda mudanya, si pemeran Miska brengsek penghancur Fitri sama si Farrel, anjirrr mimin ketauan suka sinet...awokawok..Maaf ya jika burik hasil record dari UHF Analog mungkin..
+<iframe src="https://cdn.videy.co/u56dt6DH1.mp4" width="680" height="480" allowfullscreen></iframe>
 
-Jadi, pada 21 Agustus 2018, mendiang Sulfikar Hartono mengunggah foto motornya di Facebook dengan caption "Takbiran Ya Balapan," seolah memberi isyarat bakal ikut balap liar di malam Takbiran Idul Adha. Sayangnya, aksi itu berakhir tr4gis karena kec-lakaan yang mer3nggut ny4wanya. Sejak saat itu, postingannya selalu dibicarakan netizen tiap malam Takbiran dan jadi bahan meme.
-
-Foto kejadian tragisnya pada Group Facebook "Doksli: Dokumen Asli" Anggota Grup, bernama Agus B-ntung mengunggahnya :
-
-
-
- Postingan mendiang tetap jadi fenomena, sampai 30 Maret 2025 saja sudah mendapat lebih dari 754 ribu reaksi, 3,4 juta komentar, dan dibagikan 210 ribu kali.
-
-
-
-Fenomena ini selalu jadi bahan perbincangan netizen setiap malam Takbiran, mengingatkan kita soal berhati-hati dalam berkendara dan berpikir matang sebelum bertindak.
-#FYI
