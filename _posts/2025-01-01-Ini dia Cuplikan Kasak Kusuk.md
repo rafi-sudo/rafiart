@@ -3,12 +3,12 @@ layout: post
 title: Ini dia Cuplikan Kasak Kusuk momen Cinta Fitri Ramadan
 date: 2025-01-01 00:00:00 +0800
 category: fyi
-thumbnail: /style/image/kasak.png
+thumbnail: "/style/image/kasak.png"
 icon: book
 ---
 
 ![Screenshot 2025-04-22 220416](https://github.com/user-attachments/assets/a53debd1-1659-490d-80e1-108840af027b)
-**Sulfikar Hartono “Takbiran Ya Balapan”**
+**Ini dia Cuplikan Kasak Kusuk momen Cinta Fitri Ramadan**
 
 HUNTING JADUL - Haii guys, kalian tau gak program Kasak -Kusuk, program gosip dari SCTV, pastilah tau bagi yang penonto setia SCTV dari dulu, apalagi fanbase nya Cinta Fitri...
 <hr/>
