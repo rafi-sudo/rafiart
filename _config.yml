@@ -1,10 +1,10 @@
-name: 
-author: 
-url: 
-baseurl: 
+name: Rafi Art Blog
+author: rafi rasyadi, gardis
+url: https://rafi-sudo.github.io/rafiart/
+baseurl: /rafiart
 resume_site: 
-description: 
-github_username: 
+description: tutorial rafi rasyadi, fyi, hunting jadul, jumat berkah, senin semangat, rafi rasyadi
+github_username: rafi-sudo
 github: 
 plugins: [jekyll-paginate]
 permalink: /:year-:month-:day-:title
