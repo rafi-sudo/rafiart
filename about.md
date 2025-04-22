@@ -22,5 +22,5 @@ Tetapi sekarang dijadikan wadah eksistensi konten artikel dari fanspage Rafi Art
 Fanspage ini fokus ke konten Hunting Jadul, FYI, share video Channel Youtube Rafi Rasyadi terbaru, Karaoke Ria, Jumat Berkah dan Senin Semangat (quotes).
 
 Follow kami :
-Facebook : [https://web.ganisrafi.my.id](@seni.rafirasyadi)
+Facebook : [@seni.rafirasyadi](https://facebook.com/seni.rafirasyadi)
 
