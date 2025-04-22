@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sulfikar Hartono -Takbiran Ya Balapan
+title: Ini dia Cuplikan Kasak Kusuk momen Cinta Fitri Ramadan
 date: 2025-01-01 00:00:00 +0800
 category: tutorial
 thumbnail: /style/image/kasak.png
