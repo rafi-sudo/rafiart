@@ -5,7 +5,22 @@ title: About site
 
 * content
 {:toc}
+**Blog berisi postingan :**
 
-## Introduction
+# 1. Tutorial,
 
-some description...
+# 2. FYI (For Your Information) seperti artikel "haii guyss kalian tau gak??",
+
+# 3. Hunting Jadul berupa Iklan, Program TV lawas, photo zaman Belanda, photo suasana Indonesia tempo dulu,
+
+Blog ini memang bagian dari Konten Kreator Youtube Rafi Rasyadi yang dihosting lewat Github Pages (rafi-sudo.github.io/rafiart).
+
+![YT](https://github.com/user-attachments/assets/eb5da907-a26a-4a02-99aa-27f28ddff6f0)
+Tetapi sekarang dijadikan wadah eksistensi konten artikel dari fanspage Rafi Art
+
+
+Fanspage ini fokus ke konten Hunting Jadul, FYI, share video Channel Youtube Rafi Rasyadi terbaru, Karaoke Ria, Jumat Berkah dan Senin Semangat (quotes).
+
+Follow kami :
+Facebook : https://web.ganisrafi.my.id](@seni.rafirasyadi)
+
