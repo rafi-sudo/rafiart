@@ -7,11 +7,11 @@ title: About site
 {:toc}
 **Blog berisi postingan :**
 
-# 1. Tutorial,
+**1**. Tutorial,
 
-# 2. FYI (For Your Information) seperti artikel "haii guyss kalian tau gak??",
+**2**. FYI (For Your Information) seperti artikel "haii guyss kalian tau gak??",
 
-# 3. Hunting Jadul berupa Iklan, Program TV lawas, photo zaman Belanda, photo suasana Indonesia tempo dulu,
+**3**. Hunting Jadul berupa Iklan, Program TV lawas, photo zaman Belanda, photo suasana Indonesia tempo dulu,
 
 Blog ini memang bagian dari Konten Kreator Youtube Rafi Rasyadi yang dihosting lewat Github Pages (rafi-sudo.github.io/rafiart).
 
