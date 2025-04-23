@@ -3,7 +3,7 @@ layout: post
 title: Ini dia Cuplikan Kasak Kusuk momen Cinta Fitri Ramadan
 date: 2025-01-01 00:00:00 +0800
 category: hunting jadul
-thumbnail: https://github.com/user-attachments/assets/a53debd1-1659-490d-80e1-108840af027b
+thumbnail: '/style/image/kasak.png'
 icon: book
 ---
 
