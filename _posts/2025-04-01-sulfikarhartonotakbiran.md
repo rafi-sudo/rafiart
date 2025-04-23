@@ -4,7 +4,7 @@ title: Sulfikar Hartono - Takbiran Ya Balapan
 date: 2025-04-01 00:00:00 +0800
 category: fyi
 thumbnail: 'style/image/sulfikar.png'
-icon: book
+icon: web
 ---
 ![](https://blogger.googleusercontent.com/img/a/AVvXsEhqd6IQJpveV9u0tZ2TZmolLoHvkoAJoqpTwOXfg8whxo5R2SSPH1xxbCbyyFH2UJUdB2vq21y3O3L-XXeO-3YpnLWhQwAyE1x64edBliR4QWDL_BRd0V4LNDyUC18TE2Og-Fg-p6uS8s_L6pB-utBmfU-ygvU_0oQA-08EzC4bpfJxnL5fdVxl5ZoCUzY)
 
