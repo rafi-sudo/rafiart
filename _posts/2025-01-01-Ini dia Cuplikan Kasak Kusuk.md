@@ -3,7 +3,7 @@ layout: post
 title: Ini dia Cuplikan Kasak Kusuk momen Cinta Fitri Ramadan
 date: 2025-01-01 00:00:00 +0800
 category: fyi
-thumbnail: /style/image/uyik.png
+thumbnail: /style/image/thumbnai.png
 icon: book
 ---
 
