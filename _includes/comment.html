@@ -19,7 +19,7 @@
 
     async function loadPosts() {
     try {
-        let response = await fetch("https://api.rss2json.com/v1/api.json?rss_url=https://blog.ganisrafi.my.id/feeds/posts/default");
+        let response = await fetch("https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fganisrafi.netlify.app%2Ffeed.xml");
         let data = await response.json();
 
         let postSelect = document.getElementById("postSelect");
