@@ -3,7 +3,7 @@ layout: post
 title: Pernah Kalian Susah Akses Samba ini Penyebabnya? 
 date: 2025-04-23 17:00:00 +0700
 category: tutorial
-thumbnail: 'style/image/files.png'
+thumbnail: 'style/image/filessharing.png'
 icon: code
 ---
 <p><b>HAI GUYS APAKAH KALIAN PERNAH ALAMI SUSAHNNYA SAAT PENGEN AKSES FILE ATAU PRINTER DI NETWORK DISCOVERY FILE EXPLOLER PC KAMU..</b></p><p>
