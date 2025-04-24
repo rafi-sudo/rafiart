@@ -3,7 +3,7 @@ layout: post
 title: Hai Guys, Kalian Tahu Gak? Ini Jenis-Jenis Awan yang Ada di Langit!
 date: 2025-04-24 08:00:00 +0700
 category: fyi
-thumbnail: 'style/image/awan.png'
+thumbnail: 'style/image/1742158139625.jpg'
 icon: web
 ---
 
