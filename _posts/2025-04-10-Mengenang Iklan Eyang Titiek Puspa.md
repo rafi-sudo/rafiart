@@ -29,6 +29,6 @@ Iklan yang mimin kenang dan ada video nya yaitu iklan KratingDaeng versi Wrestli
 
 Iklan KratingDaeng (Wrestling Project Pop) 30 Sec - 2010
 
-![video_alt](https://cdn.videy.co/Ino8AjOs1.mp4)
+< iframe="https://cdn.videy.co/Ino8AjOs1.mp4", width:"200"><iframe/>
 
 Produksi Agensi PT. Chuo Senko Indonesia - 2009(prod) #HuntingJadul
