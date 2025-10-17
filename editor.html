@@ -3,13 +3,13 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Markdown Web Editor Sederhana</title>
+  <title>Markdown Web Editor + GitHub Upload</title>
   <style>
     body { font-family: Arial, sans-serif; display: flex; gap: 20px; padding: 20px; transition: background 0.3s, color 0.3s; }
     textarea { width: 100%; height: 400px; padding: 10px; }
     .preview { border: 1px solid #ccc; padding: 10px; width: 100%; height: 400px; overflow: auto; background: #fafafa; }
     .tools { display: flex; flex-wrap: wrap; gap: 5px; margin-bottom: 10px; }
-    button { padding: 5px 10px; }
+    button { padding: 5px 10px; cursor: pointer; }
     .dark { background: #121212; color: #eee; }
     .dark .preview { background: #1e1e1e; border-color: #333; }
   </style>
@@ -26,7 +26,8 @@
     <input type="file" id="imageFile" accept="image/*" onchange="uploadLocalImage()">
     <button onclick="insertLink()">Link</button>
     <button onclick="exportMarkdown()">Export .MD</button>
-    <button onclick="toggleDarkMode()">Toggle Dark Mode</button>
+    <button onclick="uploadToGitHub()">Upload ke GitHub</button>
+    <button onclick="toggleDarkMode()">Dark Mode</button>
   </div>
   <textarea id="editor" oninput="renderMarkdown()"></textarea>
 </div>
@@ -84,6 +85,52 @@
     a.click();
     document.body.removeChild(a);
     URL.revokeObjectURL(url);
+  }
+
+  async function uploadToGitHub() {
+    const token = prompt("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");
+    const username = prompt("rafi-sudo");
+    const repo = prompt("rafiart");
+    const path = prompt("rafiart/generate");
+    const commitMessage = prompt("Script buat blog Rafi Art");
+    const content = document.getElementById('editor').value;
+
+    if (!token || !username || !repo || !path) {
+      alert("Semua kolom wajib diisi!");
+      return;
+    }
+
+    const encodedContent = btoa(unescape(encodeURIComponent(content)));
+
+    try {
+      const getUrl = `https://api.github.com/repos/${rafi-sudo}/${rafiart}/contents/${/generate}`;
+      const getResponse = await fetch(getUrl, {
+        headers: { Authorization: `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` }
+      });
+      const getData = getResponse.ok ? await getResponse.json() : {};
+
+      const putResponse = await fetch(getUrl, {
+        method: 'PUT',
+        headers: {
+          Authorization: `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`,
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({
+          message: commitMessage || "Update markdown via web editor",
+          content: encodedContent,
+          sha: getData.sha || undefined
+        })
+      });
+
+      if (putResponse.ok) {
+        alert("✅ File berhasil diupload ke GitHub!");
+      } else {
+        const err = await putResponse.json();
+        alert("❌ Gagal upload:\n" + JSON.stringify(err, null, 2));
+      }
+    } catch (err) {
+      alert("Terjadi error: " + err.message);
+    }
   }
 
   function toggleDarkMode() {
